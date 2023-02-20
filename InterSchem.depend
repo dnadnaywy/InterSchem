@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1642078805 source:e:\informatica\c++\school\interschem\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+	<limits.h>
+	<stdlib.h>
+	<ctype.h>
+	<string>
+	<fstream>
+	"evaluator.h"
+	<stdio.h>
+
+1641987039 e:\informatica\c++\school\interschem\evaluator.h
+	<bits/stdc++.h>
+
+1670871472 source:c:\users\panai\desktop\interschem\main.cpp
+	<bits/stdc++.h>
+	<graphics.h>
+	<conio.h>
+	<math.h>
+	<string.h>
+	<limits.h>
+	<stdlib.h>
+	<ctype.h>
+	<string>
+	<fstream>
+	"evaluator.h"
+	<stdio.h>
+
+1670871472 c:\users\panai\desktop\interschem\evaluator.h
+	<bits/stdc++.h>
+

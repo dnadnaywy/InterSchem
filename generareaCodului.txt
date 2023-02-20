@@ -1,0 +1,14 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+   double C, N;
+   cin>>N;
+   while (N!=0)
+   {
+      C=C+1;
+      N=N/10;
+   }
+   cout<<C;
+   return 0;
+}
